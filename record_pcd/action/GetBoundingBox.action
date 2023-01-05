@@ -1,0 +1,8 @@
+# Goal
+
+---
+# Result
+bool success
+---
+# Feedback
+bool[4] corner_initialized
